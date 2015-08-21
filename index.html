@@ -7,10 +7,10 @@
 </head>
 <body>
 <div class="video-container">
-    <!--<video class="tv-screen" muted autoplay loop onloadeddata="ResizeVideo(this)" src=""></video>-->
-    <video muted poster="content\images\testcard-shaded.png" class="tv-screen" autoplay onloadeddata="tv.resizeVideo(this)" onended="tv.onClipFinished()"></video>
+    <div class="overlay"></div>
+    <video src="content/video/support/snow2.mp4" class="interstitial" onloadeddata="tv.onClipLoaded()" onended="tv.onClipFinished()"></video>
+    <video class="screen" autoplay onclick="tv.onClipFinished()" onloadeddata="tv.onClipLoaded()" onended="tv.onClipFinished()"></video>
 </div>
-
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
 <script src="js/main.js"></script>
 </body>
