@@ -10,6 +10,9 @@ Once I found the playlist XML file, I pulled down a couple FLV video clips, conv
 
 Tested in the latest Chrome and Firefox. Still has some bugs, some related to mobile rendering.
 
+## Tools Used
+* http://video.online-convert.com/convert-to-mp4
+
 ## Disclaimer
 
 I own none of the video content. Half the clips are the original ones from Neave.TV, the others are selectively yanked off of YouTube.
