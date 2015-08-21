@@ -8,8 +8,8 @@
 <body>
 <div class="video-container">
     <div class="overlay"></div>
-    <video src="content/video/support/snow2.mp4" class="interstitial" onloadeddata="tv.onClipLoaded()" onended="tv.onClipFinished()"></video>
-    <video class="screen" autoplay onclick="tv.onClipFinished()" onloadeddata="tv.onClipLoaded()" onended="tv.onClipFinished()"></video>
+    <video src="content/video/support/snow2.mp4" loop class="interstitial" onloadeddata="tv.onClipLoaded()" onended="tv.onClipFinished()"></video>
+    <video class="screen" autoplay onloadeddata="tv.onClipLoaded()" onended="tv.onClipFinished()"></video>
 </div>
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
 <script src="js/main.js"></script>
