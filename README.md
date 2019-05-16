@@ -2,7 +2,7 @@
 # ChannelSurf
 <i>An unauthorized port of <a href="http://Neave.TV">Neave.TV</a> from Flash to HTML5, with additional video content.</i>
 
-Go play with it! -> <b>http://BytesTemplar.com/misc/toys/ChannelSurf/</b> (Click anywhere to 'change channels'.)
+Go play with it! -> <b>http://apps.bytestemplar.com/channelsurf/</b> (Click anywhere to 'change channels'.)
 
 I stumbled on Neave.TV last night and watched it until the clips rolled over to the start again. I noticed it was written in Flash, and since that tech is on it's way out, I wondered how easy it would be to implement what I was seeing, in HTML5. 
 
